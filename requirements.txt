@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+google-genai
+transformers
+accelerate
+bitsandbytes>=0.46.1
+faiss-cpu
+pypdf
+streamlit
+pyngrok
+pydantic

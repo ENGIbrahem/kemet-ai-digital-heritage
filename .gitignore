@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+faiss_egyptian_index/
+uploaded_docs/
+*.log
+.env
+.config/
+sample_data/
